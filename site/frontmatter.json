@@ -5,8 +5,12 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "docs",
-      "path": "[[workspace]]/docs"
+      "path": "[[workspace]]/themes/ananke",
+      "title": "ananke"
+    },
+    {
+      "path": "[[workspace]]/content/posts"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }
